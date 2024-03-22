@@ -1,0 +1,52 @@
+/* body{
+    margin-top: 10px;
+    margin-left: 30%;
+    
+} */
+
+.container{
+    
+    width: 75%;
+    
+}
+
+.img_container img{
+    object-fit: contain;
+}
+
+.name{
+    
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.bio
+{
+    height: 75px;
+    
+   
+    overflow-y: scroll;
+}
+
+
+
+td{
+    margin: 20%;
+    padding: 4px;
+    width: 40%;
+    height: 40%;
+    
+}
+
+#Portfolio_image{
+    position: relative;
+    z-index: 1.0;
+    
+    width: 720px;
+    overflow-y: scroll;
+    opacity: 0.9;
+    
+}

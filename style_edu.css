@@ -1,0 +1,17 @@
+.img_container img{
+    height: 930px;
+    width: 720px;
+    margin-right: 20px;
+    float: left;
+}
+
+.education_container{
+    margin: 20px;
+    
+    padding: 20px;
+}
+
+.education_container p{
+    float:left;
+    margin-left: 20px;
+}

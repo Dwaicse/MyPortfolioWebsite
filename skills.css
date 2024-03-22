@@ -1,0 +1,30 @@
+.skills_img img{
+
+    height: 920px;
+    width: 720px;
+    float: left;
+    padding-right: 5px;
+
+}
+
+.skills_container{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.skill_title{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight:bolder; 
+    color: rgb(20, 93, 202);
+}
+
+.skill_content{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight:bolder; 
+    margin-left: 25px;
+    padding-left: 8px;
+    color: rgb(14, 14, 81);
+
+}
